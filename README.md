@@ -1,25 +1,28 @@
+:wave: HEY WELCOME TO DN NOTIFY SCRIPT SHOWCASE
 
-# dn  Notify
+NOTIFICATION SCRIPT..
+WITH MULTIPLE FEATURES
 
-DN NOTIFY IS A FREE OPEN RESOURCE **FREE** FOR FIVEM ...
+# FEATURES
 
-# IMPO
-DONT CHANGE SCRIPT NAME 
+  [FREE/ESX]
+. Create multiple, highly customizable notification
+. Users can change notification location, direction and volume
+. Reuse defined notifications
+. Can be used with export or client event
+. Also can use this as a default notification
 
+# IMAGE 
+https://cdn.discordapp.com/attachments/1141558363054944256/1142433018473095258/DN_NOTIFY.png
 
-## Help
+# DN NOTIFY
+----------------
 
+GITHUB - https://github.com/DN-SCRIPT/dn_notify
 
-IF YOU NEED ANY HELPS OR FIXING ISSUES JOIN DN DEVELOPMENT [Discord](https://discord.gg/5rPcUNHDEV)
-  
+TEBEX - https://dn-script.tebex.io/package/5864995
 
-# Download & Installation
-
-**USING  TEBEX & GITHUB**
-
-# INSPIRED
-
-SCRIPT INSPIRED FORM - https://github.com/kac5a/k5_notify
+Many updates and suggestions being actively implemented
 
 ```
 ### Installation
@@ -65,7 +68,9 @@ Using client event
 Using Server Side:
 
     TriggerClientEvent("dn_notify:notify", source, 'Notification', 'This is a notification', 'myNotification', 10000)
-# Last Words
+
+    
+ DN DEVELOPMENT DISCORD - https://discord.gg/eqsZkck8Wc
 
 thank you 
 dn development 
