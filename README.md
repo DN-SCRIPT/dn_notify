@@ -70,7 +70,9 @@ Using Server Side:
     TriggerClientEvent("dn_notify:notify", source, 'Notification', 'This is a notification', 'myNotification', 10000)
 
     
- DN DEVELOPMENT DISCORD - https://discord.gg/eqsZkck8Wc
+ # DN DEVELOPMENT 
+ 
+ DISCORD - https://discord.gg/eqsZkck8Wc
 
 thank you 
 dn development 
